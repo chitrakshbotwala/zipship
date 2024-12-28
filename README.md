@@ -1,8 +1,8 @@
-# Zipit
-Zipit allows you to seamlessly share files from any device. It's a super convenient way to transfer files between devices with zero signups and zero compromise on the quality.
+# zipship
+zipship allows you to seamlessly share files from any device. It's a super convenient way to transfer files between devices with zero signups and zero compromise on the quality.
 
 ### Inorder to test the application locally:
-1. Clone the repository: `git clone https://github.com/actuallyakshat/zipit.git`
+1. Clone the repository: `git clone https://github.com/actuallyakshat/zipship.git`
 2. Install dependencies: `pnpm install`
 3. Set Environment Variables:
      ```
