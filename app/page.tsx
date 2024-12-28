@@ -1,7 +1,6 @@
 import Navbar from "./_components/Navbar";
 import Footer from "./_components/Footer";
 import Modals from "./_components/Modals";
-import { Analytics } from "@vercel/analytics/react"
 
 export default function Home() {
   return (
